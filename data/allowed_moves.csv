@@ -1,0 +1,815 @@
+,Name,Type,Class,Power,Accuracy
+0,"10,000,000 Volt Thunderbolt",Electric,Special,195,101
+1,Absorb,Grass,Special,20,100
+2,Accelerock,Rock,Physical,40,100
+3,Acid,Poison,Special,40,100
+4,Acid Armor,Poison,Other,0,101
+5,Acid Downpour,Poison,Special,1,101
+6,Acid Spray,Poison,Special,40,100
+7,Acrobatics,Flying,Physical,55,100
+8,Acupressure,Normal,Other,0,101
+9,Aerial Ace,Flying,Physical,60,101
+10,Aeroblast,Flying,Special,100,95
+11,After You,Normal,Other,0,101
+12,Agility,Psychic,Other,0,101
+13,Air Cutter,Flying,Special,60,95
+14,Air Slash,Flying,Special,75,95
+15,All-Out Pummeling,Fighting,Special,1,101
+16,Ally Switch,Psychic,Other,0,101
+17,Amnesia,Psychic,Other,0,101
+18,Anchor Shot,Steel,Physical,80,100
+19,Ancient Power,Rock,Special,60,100
+20,Apple Acid,Grass,Special,80,100
+21,Aqua Jet,Water,Physical,40,100
+22,Aqua Ring,Water,Other,0,101
+23,Aqua Tail,Water,Physical,90,90
+24,Arm Thrust,Fighting,Physical,15,100
+25,Aromatherapy,Grass,Other,0,101
+26,Aromatic Mist,Fairy,Other,0,101
+27,Assist,Normal,Other,0,101
+28,Assurance,Dark,Physical,60,100
+29,Astonish,Ghost,Physical,30,100
+30,Astral Barrage,Ghost,Special,120,100
+31,Attack Order,Bug,Physical,90,100
+32,Attract,Normal,Other,0,100
+33,Aura Sphere,Fighting,Special,80,101
+34,Aura Wheel,Electric,Physical,110,100
+35,Aurora Beam,Ice,Special,65,100
+36,Aurora Veil,Ice,Other,0,101
+37,Autotomize,Steel,Other,0,101
+38,Avalanche,Ice,Physical,60,100
+39,Baby-Doll Eyes,Fairy,Other,0,100
+40,Baddy Bad,Dark,Special,80,95
+41,Baneful Bunker,Poison,Other,0,101
+42,Barrage,Normal,Physical,15,85
+43,Barrier,Psychic,Other,0,101
+44,Baton Pass,Normal,Other,0,101
+45,Beak Blast,Flying,Physical,100,100
+46,Beat Up,Dark,Physical,1,100
+47,Behemoth Bash,Steel,Physical,100,100
+48,Behemoth Blade,Steel,Physical,100,100
+49,Belch,Poison,Special,120,90
+50,Belly Drum,Normal,Other,0,101
+51,Bestow,Normal,Other,0,101
+52,Bide,Normal,Physical,1,101
+53,Bind,Normal,Physical,15,85
+54,Bite,Dark,Physical,60,100
+55,Black Hole Eclipse,Dark,Special,1,101
+56,Blast Burn,Fire,Special,150,90
+57,Blaze Kick,Fire,Physical,85,90
+58,Blizzard,Ice,Special,110,70
+59,Block,Normal,Other,0,101
+60,Bloom Doom,Grass,Special,1,101
+61,Blue Flare,Fire,Special,130,85
+62,Body Press,Fighting,Physical,80,100
+63,Body Slam,Normal,Physical,85,100
+64,Bolt Beak,Electric,Physical,85,100
+65,Bolt Strike,Electric,Physical,130,85
+66,Bone Club,Ground,Physical,65,85
+67,Bonemerang,Ground,Physical,50,90
+68,Bone Rush,Ground,Physical,25,90
+69,Boomburst,Normal,Special,140,100
+70,Bounce,Flying,Physical,85,85
+71,Bouncy Bubble,Water,Special,60,100
+72,Branch Poke,Grass,Physical,40,100
+73,Brave Bird,Flying,Physical,120,100
+74,Breaking Swipe,Dragon,Physical,60,100
+75,Breakneck Blitz,Normal,Special,1,101
+76,Brick Break,Fighting,Physical,75,100
+77,Brine,Water,Special,65,100
+78,Brutal Swing,Dark,Physical,60,100
+79,Bubble,Water,Special,40,100
+80,Bubble Beam,Water,Special,65,100
+81,Bug Bite,Bug,Physical,60,100
+82,Bug Buzz,Bug,Special,90,100
+83,Bulk Up,Fighting,Other,0,101
+84,Bulldoze,Ground,Physical,60,100
+85,Bullet Punch,Steel,Physical,40,100
+86,Bullet Seed,Grass,Physical,25,100
+87,Burning Jealousy,Fire,Special,70,100
+88,Burn Up,Fire,Special,130,100
+89,Buzzy Buzz,Electric,Special,60,100
+90,Calm Mind,Psychic,Other,0,101
+91,Camouflage,Normal,Other,0,101
+92,Captivate,Normal,Other,0,100
+93,Catastropika,Electric,Physical,210,101
+94,Celebrate,Normal,Other,0,101
+95,Charge,Electric,Other,0,101
+96,Charge Beam,Electric,Special,50,90
+97,Charm,Fairy,Other,0,100
+98,Chatter,Flying,Special,65,100
+99,Chip Away,Normal,Physical,70,100
+100,Circle Throw,Fighting,Physical,60,90
+101,Clamp,Water,Physical,35,85
+102,Clanging Scales,Dragon,Special,110,100
+103,Clangorous Soul,Dragon,Other,0,100
+104,Clangorous Soulblaze,Dragon,Special,185,101
+105,Clear Smog,Poison,Special,50,101
+106,Close Combat,Fighting,Physical,120,100
+107,Coaching,Fighting,Other,0,0
+108,Coil,Poison,Other,0,101
+109,Comet Punch,Normal,Physical,18,85
+110,Confide,Normal,Other,0,101
+111,Confuse Ray,Ghost,Other,0,100
+112,Confusion,Psychic,Special,50,100
+113,Constrict,Normal,Physical,10,100
+114,Continental Crush,Rock,Special,1,101
+115,Conversion,Normal,Other,0,101
+116,Conversion 2,Normal,Other,0,101
+117,Copycat,Normal,Other,0,101
+118,Core Enforcer,Dragon,Special,100,100
+119,Corkscrew Crash,Steel,Special,1,101
+120,Corrosive Gas,Poison,Other,0,100
+121,Cosmic Power,Psychic,Other,0,101
+122,Cotton Guard,Grass,Other,0,101
+123,Cotton Spore,Grass,Other,0,100
+124,Counter,Fighting,Physical,1,100
+125,Court Change,Normal,Other,0,100
+126,Covet,Normal,Physical,60,100
+127,Crabhammer,Water,Physical,100,90
+128,Crafty Shield,Fairy,Other,0,101
+129,Cross Chop,Fighting,Physical,100,80
+130,Cross Poison,Poison,Physical,70,100
+131,Crunch,Dark,Physical,80,100
+132,Crush Claw,Normal,Physical,75,95
+133,Crush Grip,Normal,Physical,1,100
+134,Curse,Ghost,Other,0,101
+135,Cut,Normal,Physical,50,95
+136,Darkest Lariat,Dark,Physical,85,100
+137,Dark Pulse,Dark,Special,80,100
+138,Dark Void,Dark,Other,0,50
+139,Dazzling Gleam,Fairy,Special,80,100
+140,Decorate,Fairy,Other,0,101
+141,Defend Order,Bug,Other,0,101
+142,Defense Curl,Normal,Other,0,101
+143,Defog,Flying,Other,0,101
+144,Destiny Bond,Ghost,Other,0,101
+145,Detect,Fighting,Other,0,101
+146,Devastating Drake,Dragon,Special,1,101
+147,Diamond Storm,Rock,Physical,100,95
+148,Dig,Ground,Physical,80,100
+149,Disable,Normal,Other,0,100
+150,Disarming Voice,Fairy,Special,40,101
+151,Discharge,Electric,Special,80,100
+152,Dive,Water,Physical,80,100
+153,Dizzy Punch,Normal,Physical,70,100
+154,Doom Desire,Steel,Special,140,100
+155,Double-Edge,Normal,Physical,120,100
+156,Double Hit,Normal,Physical,35,90
+157,Double Iron Bash,Steel,Physical,60,100
+158,Double Kick,Fighting,Physical,30,100
+159,Double Slap,Normal,Physical,15,85
+160,Double Team,Normal,Other,0,101
+161,Draco Meteor,Dragon,Special,130,90
+162,Dragon Ascent,Flying,Physical,120,100
+163,Dragon Breath,Dragon,Special,60,100
+164,Dragon Claw,Dragon,Physical,80,100
+165,Dragon Dance,Dragon,Other,0,101
+166,Dragon Darts,Dragon,Physical,50,100
+167,Dragon Energy,Dragon,Special,150,100
+168,Dragon Hammer,Dragon,Physical,90,100
+169,Dragon Pulse,Dragon,Special,85,100
+170,Dragon Rage,Dragon,Special,1,100
+171,Dragon Rush,Dragon,Physical,100,75
+172,Dragon Tail,Dragon,Physical,60,90
+173,Draining Kiss,Fairy,Special,50,100
+174,Drain Punch,Fighting,Physical,75,100
+175,Dream Eater,Psychic,Special,100,100
+176,Drill Peck,Flying,Physical,80,100
+177,Drill Run,Ground,Physical,80,95
+178,Drum Beating,Grass,Physical,80,100
+179,Dual Chop,Dragon,Physical,40,90
+180,Dual Wingbeat,Flying,Physical,40,90
+181,Dynamax Cannon,Dragon,Special,100,100
+182,Dynamic Punch,Fighting,Physical,100,50
+183,Earth Power,Ground,Special,90,100
+184,Earthquake,Ground,Physical,100,100
+185,Echoed Voice,Normal,Special,40,100
+186,Eerie Impulse,Electric,Other,0,100
+187,Eerie Spell,Psychic,Special,80,100
+188,Egg Bomb,Normal,Physical,100,75
+189,Electric Terrain,Electric,Other,0,101
+190,Electrify,Electric,Other,0,101
+191,Electro Ball,Electric,Special,1,100
+192,Electroweb,Electric,Special,55,95
+193,Embargo,Dark,Other,0,100
+194,Ember,Fire,Special,40,100
+195,Encore,Normal,Other,0,100
+196,Endeavor,Normal,Physical,1,100
+197,Endure,Normal,Other,0,101
+198,Energy Ball,Grass,Special,90,100
+199,Entrainment,Normal,Other,0,100
+200,Eruption,Fire,Special,150,100
+201,Eternabeam,Dragon,Special,160,90
+202,Expanding Force,Psychic,Special,80,100
+204,Extrasensory,Psychic,Special,80,100
+205,Extreme Evoboost,Normal,Other,0,101
+206,Extreme Speed,Normal,Physical,80,100
+207,Facade,Normal,Physical,70,100
+208,Fairy Lock,Fairy,Other,0,101
+209,Fairy Wind,Fairy,Special,40,100
+211,Fake Tears,Dark,Other,0,100
+212,False Surrender,Dark,Physical,80,101
+214,Feather Dance,Flying,Other,0,100
+216,Feint Attack,Dark,Physical,60,101
+217,Fell Stinger,Bug,Physical,50,100
+218,Fiery Dance,Fire,Special,80,100
+219,Fiery Wrath,Dark,Special,90,100
+221,Fire Blast,Fire,Special,110,85
+222,Fire Fang,Fire,Physical,65,95
+223,Fire Lash,Fire,Physical,80,100
+224,Fire Pledge,Fire,Special,80,100
+225,Fire Punch,Fire,Physical,75,100
+226,Fire Spin,Fire,Special,35,85
+228,Fishious Rend,Water,Physical,85,100
+229,Fissure,Ground,Physical,1,30
+230,Flail,Normal,Physical,1,100
+231,Flame Burst,Fire,Special,70,100
+232,Flame Charge,Fire,Physical,50,100
+233,Flamethrower,Fire,Special,90,100
+234,Flame Wheel,Fire,Physical,60,100
+235,Flare Blitz,Fire,Physical,120,100
+236,Flash,Normal,Other,0,100
+237,Flash Cannon,Steel,Special,80,100
+238,Flatter,Dark,Other,0,100
+239,Fleur Cannon,Fairy,Special,130,90
+240,Fling,Dark,Physical,1,100
+241,Flip Turn,Water,Physical,60,100
+242,Floaty Fall,Flying,Physical,90,95
+243,Floral Healing,Fairy,Other,0,101
+244,Flower Shield,Fairy,Other,0,101
+245,Fly,Flying,Physical,90,95
+246,Flying Press,Fighting,Physical,100,95
+247,Focus Blast,Fighting,Special,120,70
+248,Focus Energy,Normal,Other,0,101
+249,Focus Punch,Fighting,Physical,150,100
+250,Follow Me,Normal,Other,0,101
+251,Force Palm,Fighting,Physical,60,100
+252,Foresight,Normal,Other,0,101
+253,Forests Curse,Grass,Other,0,100
+254,Foul Play,Dark,Physical,95,100
+255,Freeze-Dry,Ice,Special,70,100
+256,Freeze Shock,Ice,Physical,140,90
+257,Freezing Glare,Psychic,Special,90,100
+258,Freezy Frost,Ice,Special,100,90
+259,Frenzy Plant,Grass,Special,150,90
+260,Frost Breath,Ice,Special,60,90
+261,Frustration,Normal,Physical,1,100
+262,Fury Attack,Normal,Physical,15,85
+263,Fury Cutter,Bug,Physical,40,95
+264,Fury Swipes,Normal,Physical,18,80
+265,Fusion Bolt,Electric,Physical,100,100
+266,Fusion Flare,Fire,Special,100,100
+268,G-Max Befuddle,Bug,Physical,1,101
+269,G-Max Cannonade,Water,Physical,1,101
+270,G-Max Centiferno,Fire,Physical,1,101
+271,G-Max Chi Strike,Fighting,Physical,1,101
+272,G-Max Cuddle,Normal,Physical,1,101
+273,G-Max Depletion,Dragon,Physical,1,101
+274,G-Max Drum Solo,Grass,Physical,1,101
+275,G-Max Finale,Fairy,Physical,1,101
+276,G-Max Fireball,Fire,Physical,1,101
+277,G-Max Foam Burst,Water,Physical,1,101
+278,G-Max Gold Rush,Normal,Physical,1,101
+279,G-Max Gravitas,Psychic,Physical,1,101
+280,G-Max Hydrosnipe,Water,Physical,1,101
+281,G-Max Malodor,Poison,Physical,1,101
+282,G-Max Meltdown,Steel,Physical,1,101
+283,G-Max One Blow,Dark,Physical,1,101
+284,G-Max Rapid Flow,Water,Physical,1,101
+285,G-Max Replenish,Normal,Physical,1,101
+286,G-Max Resonance,Ice,Physical,1,101
+287,G-Max Sandblast,Ground,Physical,1,101
+288,G-Max Smite,Fairy,Physical,1,101
+289,G-Max Snooze,Dark,Physical,1,101
+290,G-Max Steelsurge,Steel,Physical,1,101
+291,G-Max Stonesurge,Water,Physical,1,101
+292,G-Max Stun Shock,Electric,Physical,1,101
+293,G-Max Sweetness,Grass,Physical,1,101
+294,G-Max Tartness,Grass,Physical,1,101
+295,G-Max Terror,Ghost,Physical,1,101
+296,G-Max Vine Lash,Grass,Physical,1,101
+297,G-Max Volcalith,Rock,Physical,1,101
+298,G-Max Volt Crash,Electric,Physical,1,101
+299,G-Max Wildfire,Fire,Physical,1,101
+300,G-Max Wind Rage,Flying,Physical,1,101
+301,Gastro Acid,Poison,Other,0,100
+302,Gear Grind,Steel,Physical,50,85
+303,Gear Up,Steel,Other,0,101
+304,Genesis Supernova,Psychic,Special,185,101
+305,Geomancy,Fairy,Other,0,101
+306,Giga Drain,Grass,Special,75,100
+307,Giga Impact,Normal,Physical,150,90
+308,Gigavolt Havoc,Electric,Special,1,101
+309,Glacial Lance,Ice,Physical,130,100
+310,Glaciate,Ice,Special,65,95
+311,Glare,Normal,Other,0,100
+312,Glitzy Glow,Psychic,Special,80,95
+313,Grass Knot,Grass,Special,1,100
+314,Grass Pledge,Grass,Special,80,100
+315,Grass Whistle,Grass,Other,0,55
+316,Grassy Glide,Grass,Physical,70,100
+317,Grassy Terrain,Grass,Other,0,101
+318,Grav Apple,Grass,Physical,80,100
+319,Gravity,Psychic,Other,0,101
+320,Growl,Normal,Other,0,100
+321,Growth,Normal,Other,0,101
+322,Grudge,Ghost,Other,0,101
+323,Guardian of Alola,Fairy,Special,1,101
+324,Guard Split,Psychic,Other,0,101
+325,Guard Swap,Psychic,Other,0,101
+326,Guillotine,Normal,Physical,1,30
+327,Gunk Shot,Poison,Physical,120,80
+328,Gust,Flying,Special,40,100
+329,Gyro Ball,Steel,Physical,1,100
+330,Hail,Ice,Other,0,101
+331,Hammer Arm,Fighting,Physical,100,90
+332,Happy Hour,Normal,Other,0,101
+333,Harden,Normal,Other,0,101
+334,Haze,Ice,Other,0,101
+335,Headbutt,Normal,Physical,70,100
+336,Head Charge,Normal,Physical,120,100
+337,Head Smash,Rock,Physical,150,80
+338,Heal Bell,Normal,Other,0,101
+339,Heal Block,Psychic,Other,0,100
+340,Healing Wish,Psychic,Other,0,101
+341,Heal Order,Bug,Other,0,101
+342,Heal Pulse,Psychic,Other,0,101
+343,Heart Stamp,Psychic,Physical,60,100
+344,Heart Swap,Psychic,Other,0,101
+345,Heat Crash,Fire,Physical,1,100
+346,Heat Wave,Fire,Special,95,90
+347,Heavy Slam,Steel,Physical,1,100
+348,Helping Hand,Normal,Other,0,101
+349,Hex,Ghost,Special,65,100
+350,Hidden Power,Normal,Special,60,100
+351,High Horsepower,Ground,Physical,95,95
+352,High Jump Kick,Fighting,Physical,130,90
+353,Hold Back,Normal,Physical,40,100
+354,Hold Hands,Normal,Other,0,101
+355,Hone Claws,Dark,Other,0,101
+356,Horn Attack,Normal,Physical,65,100
+357,Horn Drill,Normal,Physical,1,30
+358,Horn Leech,Grass,Physical,75,100
+359,Howl,Normal,Other,0,101
+360,Hurricane,Flying,Special,110,70
+361,Hydro Cannon,Water,Special,150,90
+362,Hydro Pump,Water,Special,110,80
+363,Hydro Vortex,Water,Special,1,101
+364,Hyper Beam,Normal,Special,150,90
+365,Hyper Fang,Normal,Physical,80,90
+366,Hyperspace Fury,Dark,Physical,100,101
+367,Hyperspace Hole,Psychic,Special,80,101
+368,Hyper Voice,Normal,Special,90,100
+369,Hypnosis,Psychic,Other,0,60
+370,Ice Ball,Ice,Physical,30,90
+371,Ice Beam,Ice,Special,90,100
+372,Ice Burn,Ice,Special,140,90
+373,Ice Fang,Ice,Physical,65,95
+374,Ice Hammer,Ice,Physical,100,90
+375,Ice Punch,Ice,Physical,75,100
+376,Ice Shard,Ice,Physical,40,100
+377,Icicle Crash,Ice,Physical,85,90
+378,Icicle Spear,Ice,Physical,25,100
+379,Icy Wind,Ice,Special,55,95
+380,Imprison,Psychic,Other,0,101
+381,Incinerate,Fire,Special,60,100
+382,Inferno,Fire,Special,100,50
+383,Inferno Overdrive,Fire,Special,1,101
+384,Infestation,Bug,Special,20,100
+385,Ingrain,Grass,Other,0,101
+386,Instruct,Psychic,Other,0,101
+387,Ion Deluge,Electric,Other,0,101
+388,Iron Defense,Steel,Other,0,101
+389,Iron Head,Steel,Physical,80,100
+390,Iron Tail,Steel,Physical,100,75
+391,Jaw Lock,Dark,Physical,80,100
+392,Judgment,Normal,Special,100,100
+393,Jump Kick,Fighting,Physical,100,95
+394,Jungle Healing,Grass,Other,0,101
+395,Karate Chop,Fighting,Physical,50,100
+396,Kinesis,Psychic,Other,0,80
+397,Kings Shield,Steel,Other,0,101
+398,Knock Off,Dark,Physical,65,100
+399,Lands Wrath,Ground,Physical,90,100
+400,Laser Focus,Normal,Other,0,101
+401,Lash Out,Dark,Physical,75,100
+403,Lava Plume,Fire,Special,80,100
+404,Leafage,Grass,Physical,40,100
+405,Leaf Blade,Grass,Physical,90,100
+406,Leaf Storm,Grass,Special,130,90
+407,Leaf Tornado,Grass,Special,65,90
+408,Leech Life,Bug,Physical,80,100
+409,Leech Seed,Grass,Other,0,90
+410,Leer,Normal,Other,0,100
+411,Lets Snuggle Forever,Fairy,Physical,190,101
+412,Lick,Ghost,Physical,30,100
+413,Life Dew,Water,Other,0,101
+414,Light of Ruin,Fairy,Special,140,90
+415,Light Screen,Psychic,Other,0,101
+416,Light That Burns the Sky,Psychic,Special,200,101
+417,Liquidation,Water,Physical,85,100
+418,Lock-On,Normal,Other,0,101
+419,Lovely Kiss,Normal,Other,0,75
+420,Low Kick,Fighting,Physical,1,100
+421,Low Sweep,Fighting,Physical,65,100
+422,Lucky Chant,Normal,Other,0,101
+423,Lunar Dance,Psychic,Other,0,101
+424,Lunge,Bug,Physical,80,100
+425,Luster Purge,Psychic,Special,70,100
+426,Mach Punch,Fighting,Physical,40,100
+427,Magical Leaf,Grass,Special,60,101
+428,Magic Coat,Psychic,Other,0,101
+429,Magic Powder,Psychic,Other,0,100
+430,Magic Room,Psychic,Other,0,101
+431,Magma Storm,Fire,Special,100,75
+432,Magnet Bomb,Steel,Physical,60,101
+433,Magnetic Flux,Electric,Other,0,101
+434,Magnet Rise,Electric,Other,0,101
+435,Magnitude,Ground,Physical,1,100
+436,Malicious Moonsault,Dark,Physical,180,101
+437,Mat Block,Fighting,Other,0,101
+440,Max Flare,Fire,Other,1,101
+443,Max Guard,Normal,Other,0,101
+457,Mean Look,Normal,Other,0,101
+458,Meditate,Psychic,Other,0,101
+459,Me First,Normal,Other,1,101
+460,Mega Drain,Grass,Special,40,100
+461,Megahorn,Bug,Physical,120,85
+462,Mega Kick,Normal,Physical,120,75
+463,Mega Punch,Normal,Physical,80,85
+464,Memento,Dark,Other,0,100
+465,Menacing Moonraze Maelstrom,Ghost,Special,200,101
+466,Metal Burst,Steel,Physical,1,100
+467,Metal Claw,Steel,Physical,50,95
+468,Metal Sound,Steel,Other,0,85
+469,Meteor Assault,Fighting,Physical,150,100
+470,Meteor Beam,Rock,Special,120,90
+471,Meteor Mash,Steel,Physical,90,90
+472,Metronome,Normal,Other,0,101
+473,Milk Drink,Normal,Other,0,101
+474,Mimic,Normal,Other,0,101
+475,Mind Blown,Fire,Special,150,100
+476,Mind Reader,Normal,Other,0,101
+477,Minimize,Normal,Other,0,101
+478,Miracle Eye,Psychic,Other,0,101
+479,Mirror Coat,Psychic,Special,1,100
+480,Mirror Move,Flying,Other,0,101
+481,Mirror Shot,Steel,Special,65,85
+482,Mist,Ice,Other,0,101
+483,Mist Ball,Psychic,Special,70,100
+485,Misty Terrain,Fairy,Other,0,101
+486,Moonblast,Fairy,Special,95,100
+487,Moongeist Beam,Ghost,Special,100,100
+488,Moonlight,Fairy,Other,0,101
+489,Morning Sun,Normal,Other,0,101
+490,Mud-Slap,Ground,Special,20,100
+491,Mud Bomb,Ground,Special,65,85
+492,Muddy Water,Water,Special,90,85
+493,Mud Shot,Ground,Special,55,95
+494,Mud Sport,Ground,Other,0,101
+495,Multi-Attack,Normal,Physical,120,100
+496,Mystical Fire,Fire,Special,75,100
+497,Nasty Plot,Dark,Other,0,101
+498,Natural Gift,Normal,Physical,1,100
+499,Natures Madness,Fairy,Special,1,90
+500,Nature Power,Normal,Other,0,101
+501,Needle Arm,Grass,Physical,60,100
+502,Never-Ending Nightmare,Ghost,Special,1,101
+503,Night Daze,Dark,Special,85,95
+504,Nightmare,Ghost,Other,0,100
+505,Night Shade,Ghost,Special,1,100
+506,Night Slash,Dark,Physical,70,100
+507,Noble Roar,Normal,Other,0,100
+508,No Retreat,Fighting,Other,0,101
+509,Nuzzle,Electric,Physical,20,100
+510,Oblivion Wing,Flying,Special,80,100
+511,Obstruct,Dark,Other,0,100
+512,Oceanic Operetta,Water,Special,195,101
+513,Octazooka,Water,Special,65,85
+514,Octolock,Fighting,Other,0,100
+515,Odor Sleuth,Normal,Other,0,101
+516,Ominous Wind,Ghost,Special,60,100
+517,Origin Pulse,Water,Special,110,85
+518,Outrage,Dragon,Physical,120,100
+519,Overdrive,Electric,Special,80,100
+520,Overheat,Fire,Special,130,90
+521,Pain Split,Normal,Other,0,101
+522,Parabolic Charge,Electric,Special,65,100
+523,Parting Shot,Dark,Other,0,100
+524,Payback,Dark,Physical,50,100
+525,Pay Day,Normal,Physical,40,100
+526,Peck,Flying,Physical,35,100
+527,Perish Song,Normal,Other,0,101
+528,Petal Blizzard,Grass,Physical,90,100
+529,Petal Dance,Grass,Special,120,100
+530,Phantom Force,Ghost,Physical,90,100
+531,Photon Geyser,Psychic,Special,100,100
+532,Pika Papow,Electric,Special,1,101
+533,Pin Missile,Bug,Physical,25,95
+534,Plasma Fists,Electric,Physical,100,100
+535,Play Nice,Normal,Other,0,101
+536,Play Rough,Fairy,Physical,90,90
+537,Pluck,Flying,Physical,60,100
+538,Poison Fang,Poison,Physical,50,100
+539,Poison Gas,Poison,Other,0,90
+540,Poison Jab,Poison,Physical,80,100
+541,Poison Powder,Poison,Other,0,75
+542,Poison Sting,Poison,Physical,15,100
+543,Poison Tail,Poison,Physical,50,100
+544,Pollen Puff,Bug,Special,90,100
+545,Poltergeist,Ghost,Physical,110,90
+546,Pound,Normal,Physical,40,100
+547,Powder,Bug,Other,0,100
+548,Powder Snow,Ice,Special,40,100
+549,Power-Up Punch,Fighting,Physical,40,100
+550,Power Gem,Rock,Special,80,100
+551,Power Split,Psychic,Other,0,101
+552,Power Swap,Psychic,Other,0,101
+553,Power Trick,Psychic,Other,0,101
+554,Power Trip,Dark,Physical,20,100
+555,Power Whip,Grass,Physical,120,85
+556,Precipice Blades,Ground,Physical,120,85
+557,Present,Normal,Physical,1,90
+558,Prismatic Laser,Psychic,Special,160,100
+559,Protect,Normal,Other,0,101
+560,Psybeam,Psychic,Special,65,100
+561,Psychic,Psychic,Special,90,100
+562,Psychic Fangs,Psychic,Physical,85,100
+563,Psychic Terrain,Psychic,Other,0,101
+564,Psycho Boost,Psychic,Special,140,90
+565,Psycho Cut,Psychic,Physical,70,100
+566,Psycho Shift,Psychic,Other,0,100
+567,Psych Up,Normal,Other,0,101
+568,Psyshock,Psychic,Special,80,100
+569,Psystrike,Psychic,Special,100,100
+570,Psywave,Psychic,Special,1,100
+571,Pulverizing Pancake,Normal,Physical,210,101
+572,Punishment,Dark,Physical,1,100
+573,Purify,Poison,Other,0,101
+574,Pursuit,Dark,Physical,40,100
+575,Pyro Ball,Fire,Physical,120,90
+576,Quash,Dark,Other,0,100
+577,Quick Attack,Normal,Physical,40,100
+578,Quick Guard,Fighting,Other,0,101
+579,Quiver Dance,Bug,Other,0,101
+580,Rage,Normal,Physical,20,100
+581,Rage Powder,Bug,Other,0,101
+582,Rain Dance,Water,Other,0,101
+583,Rapid Spin,Normal,Physical,50,100
+584,Razor Leaf,Grass,Physical,55,95
+585,Razor Shell,Water,Physical,75,95
+586,Razor Wind,Normal,Special,80,100
+587,Recover,Normal,Other,0,101
+588,Recycle,Normal,Other,0,101
+589,Reflect,Psychic,Other,0,101
+590,Reflect Type,Normal,Other,0,101
+591,Refresh,Normal,Other,0,101
+592,Relic Song,Normal,Special,75,100
+593,Rest,Psychic,Other,0,101
+594,Retaliate,Normal,Physical,70,100
+595,Return,Normal,Physical,1,100
+596,Revelation Dance,Normal,Special,90,100
+597,Revenge,Fighting,Physical,60,100
+598,Reversal,Fighting,Physical,1,100
+599,Rising Voltage,Electric,Special,70,100
+600,Roar,Normal,Other,0,101
+601,Roar of Time,Dragon,Special,150,90
+602,Rock Blast,Rock,Physical,25,90
+603,Rock Climb,Normal,Physical,90,85
+604,Rock Polish,Rock,Other,0,101
+605,Rock Slide,Rock,Physical,75,90
+606,Rock Smash,Fighting,Physical,40,100
+607,Rock Throw,Rock,Physical,50,90
+608,Rock Tomb,Rock,Physical,60,95
+609,Rock Wrecker,Rock,Physical,150,90
+610,Role Play,Psychic,Other,0,101
+611,Rolling Kick,Fighting,Physical,60,85
+612,Rollout,Rock,Physical,30,90
+613,Roost,Flying,Other,0,101
+614,Rototiller,Ground,Other,0,101
+615,Round,Normal,Special,60,100
+616,Sacred Fire,Fire,Physical,100,95
+617,Sacred Sword,Fighting,Physical,90,100
+618,Safeguard,Normal,Other,0,101
+619,Sand Attack,Ground,Other,0,100
+620,Sandstorm,Rock,Other,0,101
+621,Sand Tomb,Ground,Physical,35,85
+622,Sappy Seed,Grass,Physical,100,90
+623,Savage Spin-Out,Bug,Special,1,101
+624,Scald,Water,Special,80,100
+625,Scale Shot,Dragon,Physical,25,90
+626,Scary Face,Normal,Other,0,100
+627,Scorching Sands,Ground,Special,70,100
+628,Scratch,Normal,Physical,40,100
+629,Screech,Normal,Other,0,85
+630,Searing Shot,Fire,Special,100,100
+631,Searing Sunraze Smash,Steel,Physical,200,101
+632,Secret Power,Normal,Physical,70,100
+633,Secret Sword,Fighting,Special,85,100
+634,Seed Bomb,Grass,Physical,80,100
+635,Seed Flare,Grass,Special,120,85
+636,Seismic Toss,Fighting,Physical,1,100
+638,Shadow Ball,Ghost,Special,80,100
+639,Shadow Bone,Ghost,Physical,85,100
+640,Shadow Claw,Ghost,Physical,70,100
+641,Shadow Force,Ghost,Physical,120,100
+642,Shadow Punch,Ghost,Physical,60,101
+643,Shadow Sneak,Ghost,Physical,40,100
+644,Sharpen,Normal,Other,0,101
+645,Shattered Psyche,Psychic,Special,1,101
+646,Sheer Cold,Ice,Special,1,30
+647,Shell Side Arm,Poison,Special,90,100
+648,Shell Smash,Normal,Other,0,101
+649,Shell Trap,Fire,Special,150,100
+650,Shift Gear,Steel,Other,0,101
+651,Shock Wave,Electric,Special,60,101
+652,Shore Up,Ground,Other,0,101
+653,Signal Beam,Bug,Special,75,100
+654,Silver Wind,Bug,Special,60,100
+655,Simple Beam,Normal,Other,0,100
+656,Sing,Normal,Other,0,55
+657,Sinister Arrow Raid,Ghost,Physical,180,101
+658,Sizzly Slide,Fire,Physical,60,100
+659,Sketch,Normal,Other,0,101
+660,Skill Swap,Psychic,Other,0,101
+661,Skitter Smack,Bug,Physical,70,90
+662,Skull Bash,Normal,Physical,130,100
+663,Sky Attack,Flying,Physical,140,90
+664,Sky Drop,Flying,Physical,60,100
+665,Sky Uppercut,Fighting,Physical,85,90
+666,Slack Off,Normal,Other,0,101
+667,Slam,Normal,Physical,80,75
+668,Slash,Normal,Physical,70,100
+669,Sleep Powder,Grass,Other,0,75
+670,Sleep Talk,Normal,Other,0,101
+671,Sludge,Poison,Special,65,100
+672,Sludge Bomb,Poison,Special,90,100
+673,Sludge Wave,Poison,Special,95,100
+674,Smack Down,Rock,Physical,50,100
+675,Smart Strike,Steel,Physical,70,101
+676,Smelling Salts,Normal,Physical,70,100
+677,Smog,Poison,Special,30,70
+678,Smokescreen,Normal,Other,0,100
+679,Snap Trap,Grass,Physical,35,100
+680,Snarl,Dark,Special,55,95
+681,Snatch,Dark,Other,0,101
+682,Snipe Shot,Water,Special,80,100
+683,Snore,Normal,Special,50,100
+684,Soak,Water,Other,0,100
+685,Soft-Boiled,Normal,Other,0,101
+686,Solar Beam,Grass,Special,120,100
+687,Solar Blade,Grass,Physical,125,100
+688,Sonic Boom,Normal,Special,1,90
+689,Soul-Stealing 7-Star Strike,Ghost,Physical,195,101
+690,Spacial Rend,Dragon,Special,100,95
+691,Spark,Electric,Physical,65,100
+692,Sparkling Aria,Water,Special,90,100
+693,Sparkly Swirl,Fairy,Special,120,85
+694,Spectral Thief,Ghost,Physical,90,100
+695,Speed Swap,Psychic,Other,0,101
+696,Spider Web,Bug,Other,0,101
+697,Spike Cannon,Normal,Physical,20,100
+698,Spikes,Ground,Other,0,101
+699,Spiky Shield,Grass,Other,0,101
+700,Spirit Break,Fairy,Physical,75,100
+701,Spirit Shackle,Ghost,Physical,80,100
+702,Spite,Ghost,Other,0,100
+703,Spit Up,Normal,Special,1,100
+704,Splash,Normal,Other,0,101
+705,Splintered Stormshards,Rock,Physical,190,101
+706,Splishy Splash,Water,Special,90,100
+707,Spore,Grass,Other,0,100
+708,Spotlight,Normal,Other,0,101
+709,Stealth Rock,Rock,Other,0,101
+710,Steam Eruption,Water,Special,110,95
+711,Steamroller,Bug,Physical,65,100
+712,Steel Beam,Steel,Special,140,95
+713,Steel Roller,Steel,Physical,130,100
+714,Steel Wing,Steel,Physical,70,90
+715,Sticky Web,Bug,Other,0,101
+716,Stockpile,Normal,Other,0,101
+717,Stoked Sparksurfer,Electric,Special,175,101
+718,Stomp,Normal,Physical,65,100
+719,Stomping Tantrum,Ground,Physical,75,100
+720,Stone Edge,Rock,Physical,100,80
+721,Stored Power,Psychic,Special,20,100
+722,Storm Throw,Fighting,Physical,60,100
+723,Strange Steam,Fairy,Special,90,95
+724,Strength,Normal,Physical,80,100
+725,Strength Sap,Grass,Other,0,100
+726,String Shot,Bug,Other,0,95
+727,Struggle,Normal,Physical,50,101
+728,Struggle Bug,Bug,Special,50,100
+729,Stuff Cheeks,Normal,Other,0,101
+730,Stun Spore,Grass,Other,0,75
+731,Submission,Fighting,Physical,80,80
+732,Substitute,Normal,Other,0,101
+733,Subzero Slammer,Ice,Special,1,101
+734,Sucker Punch,Dark,Physical,70,100
+735,Sunny Day,Fire,Other,0,101
+736,Sunsteel Strike,Steel,Physical,100,100
+737,Super Fang,Normal,Physical,1,90
+738,Superpower,Fighting,Physical,120,100
+739,Supersonic,Normal,Other,0,55
+740,Supersonic Skystrike,Flying,Special,1,101
+741,Surf,Water,Special,90,100
+742,Surging Strikes,Water,Physical,25,100
+743,Swagger,Normal,Other,0,85
+744,Swallow,Normal,Other,0,101
+745,Sweet Kiss,Fairy,Other,0,75
+746,Sweet Scent,Normal,Other,0,100
+747,Swift,Normal,Special,60,101
+748,Switcheroo,Dark,Other,0,100
+749,Swords Dance,Normal,Other,0,101
+750,Synchronoise,Psychic,Special,120,100
+751,Synthesis,Grass,Other,0,101
+752,Tackle,Normal,Physical,40,100
+753,Tail Glow,Bug,Other,0,101
+754,Tail Slap,Normal,Physical,25,85
+755,Tail Whip,Normal,Other,0,100
+756,Tailwind,Flying,Other,0,101
+757,Take Down,Normal,Physical,90,85
+758,Tar Shot,Rock,Other,0,100
+759,Taunt,Dark,Other,0,100
+760,Tearful Look,Normal,Other,0,101
+761,Teatime,Normal,Other,0,101
+762,Techno Blast,Normal,Special,120,100
+763,Tectonic Rage,Ground,Special,1,101
+764,Teeter Dance,Normal,Other,0,100
+765,Telekinesis,Psychic,Other,0,101
+766,Teleport,Psychic,Other,0,101
+767,Terrain Pulse,Normal,Special,50,100
+768,Thief,Dark,Physical,60,100
+769,Thousand Arrows,Ground,Physical,90,100
+770,Thousand Waves,Ground,Physical,90,100
+771,Thrash,Normal,Physical,120,100
+772,Throat Chop,Dark,Physical,80,100
+773,Thunder,Electric,Special,110,70
+774,Thunderbolt 10,Electric,Special,90,100
+775,Thunder Cage,Electric,Special,80,90
+776,Thunder Fang,Electric,Physical,65,95
+777,Thunderous Kick,Fighting,Physical,90,100
+778,Thunder Punch,Electric,Physical,75,100
+779,Thunder Shock,Electric,Special,40,100
+780,Thunder Wave,Electric,Other,0,90
+781,Tickle,Normal,Other,0,100
+782,Topsy-Turvy,Dark,Other,0,101
+783,Torment,Dark,Other,0,100
+784,Toxic,Poison,Other,0,90
+785,Toxic Spikes,Poison,Other,0,101
+786,Toxic Thread,Poison,Other,0,100
+787,Transform,Normal,Other,0,101
+788,Tri Attack,Normal,Special,80,100
+789,Trick-or-Treat,Ghost,Other,0,100
+790,Trick,Psychic,Other,0,100
+791,Trick Room,Psychic,Other,0,101
+792,Triple Axel,Ice,Physical,20,90
+793,Triple Kick,Fighting,Physical,10,90
+794,Trop Kick,Grass,Physical,70,100
+795,Trump Card,Normal,Special,1,101
+796,Twineedle,Bug,Physical,25,100
+797,Twinkle Tackle,Fairy,Special,1,101
+798,Twister,Dragon,Special,40,100
+799,U-turn,Bug,Physical,70,100
+800,Uproar,Normal,Special,90,100
+801,V-create,Fire,Physical,180,95
+802,Vacuum Wave,Fighting,Special,40,100
+803,Veevee Volley,Normal,Physical,1,101
+804,Venom Drench,Poison,Other,0,100
+805,Venoshock,Poison,Special,65,100
+806,Vine Whip,Grass,Physical,45,100
+807,Vise Grip,Normal,Physical,55,100
+808,Vital Throw,Fighting,Physical,70,101
+809,Volt Switch,Electric,Special,70,100
+810,Volt Tackle,Electric,Physical,120,100
+811,Wake-Up Slap,Fighting,Physical,70,100
+812,Waterfall,Water,Physical,80,100
+813,Water Gun,Water,Special,40,100
+814,Water Pledge,Water,Special,80,100
+815,Water Pulse,Water,Special,60,100
+816,Water Shuriken,Water,Special,15,100
+817,Water Sport,Water,Other,0,101
+818,Water Spout,Water,Special,150,100
+819,Weather Ball,Normal,Special,50,100
+820,Whirlpool,Water,Special,35,85
+821,Whirlwind,Normal,Other,0,101
+822,Wicked Blow,Dark,Physical,80,100
+823,Wide Guard,Rock,Other,0,101
+824,Wild Charge,Electric,Physical,90,100
+825,Will-O-Wisp,Fire,Other,0,85
+826,Wing Attack,Flying,Physical,60,100
+827,Wish,Normal,Other,0,101
+828,Withdraw,Water,Other,0,101
+829,Wonder Room,Psychic,Other,0,101
+830,Wood Hammer,Grass,Physical,120,100
+831,Work Up,Normal,Other,0,101
+832,Worry Seed,Grass,Other,0,100
+833,Wrap,Normal,Physical,15,90
+834,Wring Out,Normal,Special,1,100
+835,X-Scissor,Bug,Physical,80,100
+836,Yawn,Normal,Other,0,101
+837,Zap Cannon,Electric,Special,120,50
+838,Zen Headbutt,Psychic,Physical,80,90
+839,Zing Zap,Electric,Physical,80,100
+840,Zippy Zap,Electric,Physical,80,100
